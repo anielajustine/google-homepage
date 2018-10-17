@@ -1,0 +1,82 @@
+body {
+	background-color: #fff;
+}
+
+div.logo {
+	height:233px;
+	margin-top:89px;
+	padding-top:109px;
+
+}
+
+div.ds {
+	border: none;
+	padding: 0px;
+	margin: 0px;
+	height: auto;
+	width: 100%;
+	z-index: 6;
+	left: 0px;
+	outline: none;
+}
+
+div.b0KoTc {
+	margin-left: -27px;
+	margin-top: 98px;
+	text-align: left;
+	color: rgba(0,0,0,.54);
+	background-color: #f2f2f2;
+	border-top: 1px solid #e4e4e4;
+	min-width: 1200px;
+	padding-left: 33px;
+	display: block;
+	font-size: small;
+	line-height: 40px;
+	font-family: arial, sans-serif;
+	bottom: 0px;
+
+}
+
+div.b0KoTd {
+	margin-left: -27px;
+	text-align: left;
+	color: rgba(0,0,0,.54);
+	background-color: #f2f2f2;
+	border-top: 1px solid #e4e4e4;
+	min-width: 1200px;
+	padding-left: 33px;
+	display: block;
+	font-size: small;
+	line-height: 40px;
+	font-family: arial, sans-serif;
+	bottom: 0px;
+	}
+
+input.lst {
+	color: rgb(0, 0, 0); 
+	margin: 0px; 
+	padding: 5px 8px 5px 6px; 
+	vertical-align: top; 
+	outline: none;
+	height: 34px !important;
+	width: 500px;
+
+}
+
+
+input.btnG, .btnI {
+	height: 36px;
+	line-height: 27px;
+	background-color: #f2f2f2;
+	border: 1px solid #f2f2f2;
+	border-radius: 2px;
+	color: #757575;
+	cursor: default;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	margin: 11px 4px;
+	min-width: 54px;
+	padding: 0 16px;
+	text-align: center;
+}
